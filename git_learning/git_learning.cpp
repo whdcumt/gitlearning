@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
     cin >>a>>b>>c;
     cout << a <<b<<c<< endl;
 	cout << "修复bug结束" << endl;
+	cout << "该行代码是模拟在开发新功能时，遇到紧急bug,我们要修复的紧急代码并成功修复bug" << endl;
 	return 0;
 }
 
