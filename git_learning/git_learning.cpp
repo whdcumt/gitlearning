@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
     cin >>a>>b>>c;
     cout << a <<b<<c<< endl;
 	cout << "修复bug结束" << endl;
+    cout << "该行输出模仿新的工作任务（实现新的功能）" << endl;
 	return 0;
 }
 
